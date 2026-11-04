@@ -1,6 +1,6 @@
 [project]
 name = "weather_kz2635"
-version = "0.1.0"
+version = "0.1.1"
 description = "Convert, summarize and clean weather station temperatures"
 readme = "README.md"
 authors = [{ name = "Kai Zhang", email = "kz2635@columbia.edu" }]
