@@ -1,5 +1,6 @@
 # weather_kz2635
 
+[![CI](https://github.com/QMSS-G5072-2026/weather_zhang_kai/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/QMSS-G5072-2026/weather_zhang_kai/actions/workflows/ci.yml)
 Convert, summarize and clean weather station temperatures
 
 ## Installation
